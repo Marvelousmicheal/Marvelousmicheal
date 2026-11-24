@@ -1,71 +1,68 @@
 <h1 align="center">Marvelous Micheal</h1>
 <p align="center">
-  Frontend Engineer • Next.js Enthusiast • UI Animation Lover
+  Frontend Engineer • Next.js & TypeScript • UI Motion
 </p>
 
 <p align="center">
-  Building clean interfaces, interactive experiences, and scalable web apps.
+  Building clean interfaces, interactive experiences, and products people actually use.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a frontend developer based in Lagos, Nigeria, focused on building performant and visually engaging web applications.
+I'm a frontend engineer based in Lagos, Nigeria, focused on fast, accessible and visually engaging web apps.
 
 I care about:
-- Clean architecture
-- Smooth UI interactions
-- Maintainable component systems
-- Shipping real products
+- Clean, maintainable component systems
+- Consistent design across a whole product, not just one page
+- Smooth, purposeful UI motion
+- Shipping real products, with tests to back them
 
-Currently exploring deeper backend integration with Node.js and building AI-powered web applications.
+Currently learning **Rust** and **Three.js**.
 
 ---
 
-## 🚀 Current Project
+## 🚀 Recent Work
 
-🔭 **Oenergies Landing Page**  
-Live: https://oenergies.vercel.app/
+### Xberg — document extraction platform · [xberg.io](https://xberg.io)
+Frontend engineer on the marketing site and the product dashboard (Next.js, TypeScript, React Query). 120+ merged pull requests, including:
+- A dashboard redesign so every page shares one design system: page headers, buttons, fields, dropdowns, pagination, status tags and side-panel confirmations
+- A collapsible dashboard sidebar with a keyboard shortcut
+- Searchable pickers, RAG collection and enrichment screens, and a live-updating crawl job page
+- Marketing site work: search indexing, page previews and sitemap, a pricing ladder, readability and phone fixes
+- Removing dead code and unused dependencies
 
-A production-ready marketing site built with performance, responsiveness, and clean UI structure in mind.
+### Replay Room · [replayroom.net](https://replayroom.net)
+A side project for football fans: goal replays you can browse by matchday. *Watch the moment. Then watch it again.*
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Sass
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Radix UI / shadcn · React Query · Zustand · Sass
 
-**Animation & Interaction**
-- GSAP
-- Motion.dev
+**Animation & 3D:** GSAP · Motion · Three.js (learning)
 
-**Other Tools**
-- Git & GitHub
-- Figma
-- REST APIs
-- Node.js (learning deeper backend patterns)
+**Testing:** Vitest · Testing Library · Playwright
+
+**Also:** Node.js · REST APIs · Git & GitHub · Figma · Rust (learning)
 
 ---
 
-## 📈 What I’m Working Toward
+## 📈 What I'm Working Toward
 
-- Contributing consistently to open-source projects
-- Building AI-integrated web applications
-- Strengthening full-stack engineering skills
-- Writing cleaner, scalable frontend architecture
+- Building 3D and interactive experiences with Three.js
+- Systems programming with Rust
+- Contributing consistently to open source
+- Writing clean, scalable frontend architecture
 
 ---
 
 ## 📫 Contact
 
-Email: donatusmarvelous09@gmail.com  
-GitHub: https://github.com/marvelousmicheal  
+Email: donatusmarvelous09@gmail.com
+GitHub: https://github.com/marvelousmicheal
 
 ---
 
